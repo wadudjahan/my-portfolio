@@ -102,8 +102,6 @@ margin-bottom: 30px;
 main{
     max-width: 1140px;
     margin: 0 auto;
-
-
 }
 
 .about{
@@ -182,10 +180,6 @@ color: #474747;
 .resume-contain{
     display: flex;
     gap: 24px;
-}
-
-.resume-title{
-
 }
 
 .resume-item{
